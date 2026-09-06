@@ -1,6 +1,6 @@
-lua
+lua v5.4.7-vex
 nasm
 ripgrep
-tcc
-xenon
+tcc v0.9.27
+xenon v3.1.3-vex
 yasm
