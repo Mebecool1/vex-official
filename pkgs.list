@@ -4,3 +4,4 @@ ripgrep
 tcc v0.9.27
 xenon v3.1.3-vex
 yasm
+zig v0.13.0
