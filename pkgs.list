@@ -1,5 +1,5 @@
-lua v5.4.7-vex
-tcc v0.9.27
-xenon v3.1.3-vex
-katkit v0.1.0
-nvim v0.11.6
+lua v5.4.7-vex deps=
+tcc v0.9.27 deps=
+xenon v3.1.3-vex deps=
+katkit v0.1.0 deps=
+nvim v0.11.6 deps=
